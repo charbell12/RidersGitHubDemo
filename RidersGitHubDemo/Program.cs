@@ -7,5 +7,6 @@ class Program
         Console.WriteLine("Det här en kod ändring!");
         Console.WriteLine("New Line alert!");
         Console.WriteLine("I said: New Line Alert!");
+        Console.WriteLine("C");
     }
 }
