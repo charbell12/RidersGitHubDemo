@@ -6,5 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("Det här en kod ändring!");
+        Console.WriteLine("New Line alert!");
     }
 }
